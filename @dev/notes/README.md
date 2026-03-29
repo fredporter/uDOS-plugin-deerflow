@@ -1,3 +1,3 @@
 # Notes
 
-Repo-local Deer Flow adapter notes belong here.
+Keep only current repo-owned Deer Flow adapter notes here.

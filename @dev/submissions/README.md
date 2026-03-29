@@ -1,3 +1,3 @@
 # Submissions
 
-Repo-local implementation submissions for `uDOS-plugin-deerflow` belong here.
+Keep only a compact summary of meaningful completed promotion work here.
