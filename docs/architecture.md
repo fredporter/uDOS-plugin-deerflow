@@ -91,13 +91,12 @@ Responsibilities:
 ## Runtime lanes
 
 ### Lane A: native uDOS engine
+
 Default, stable, simpler workflows.
 
 ### Lane B: Deer Flow adapter
-Optional, heavier, graph-oriented, long-horizon workflows.
 
-### Lane C: wizard-only orchestration
-A likely early-production lane for advanced OK-assisted workflows before wider core adoption.
+Optional, heavier, graph-oriented, long-horizon workflows.
 
 ## Trust classes
 
@@ -123,4 +122,6 @@ Avoid persisting raw internal runtime noise unless explicitly requested for debu
 
 ## Future direction
 
-A later visual builder may generate uDOS workflow JSON and preview Deer Flow graphs, but that should still compile back into canonical uDOS workflow artifacts first.
+A later visual builder may generate uDOS workflow JSON and preview Deer Flow
+graphs, but that should still compile back into canonical uDOS workflow
+artifacts first.

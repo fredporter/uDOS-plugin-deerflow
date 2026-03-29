@@ -1,5 +1,8 @@
 # Quickstart
 
+This is the shortest practical path for bootstrapping the adapter and checking
+the staged translation lane.
+
 ## 1. Bootstrap
 
 ```bash
@@ -27,4 +30,5 @@ make test
 ## Notes
 
 This scaffold does not yet launch Deer Flow itself.
-It prepares the repo shape, schemas, translation logic, and update strategy needed for the first real implementation pass.
+It prepares the repo shape, schemas, translation logic, and update strategy
+needed for the first real implementation pass.

@@ -1,10 +1,8 @@
 # uDOS-plugin-deerflow Activation
 
-## Purpose
-
-Activate the first optional Deer Flow execution-backend lane for the uDOS
-family with translation schemas, executor stubs, upstream sync helpers, and a
-repo-local validation entrypoint.
+Activate the optional Deer Flow execution backend for the uDOS family with
+translation schemas, executor stubs, upstream sync helpers, and a repo-local
+validation entrypoint.
 
 ## Activated Surfaces
 

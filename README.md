@@ -1,12 +1,11 @@
 # uDOS-plugin-deerflow
 
 uDOS-plugin-deerflow is the optional Deer Flow execution adapter lane for the
-uDOS v2 family.
+uDOS family.
 
-It is the experimental backend opened by `v2.4` Round D: translation and
-controlled execution for graph-heavy or long-horizon workflows, without moving
-canonical workflow truth, vault persistence, publish routing, or certification
-boundaries out of uDOS.
+It is an experimental backend for translation and controlled execution of
+graph-heavy or long-horizon workflows, without moving canonical workflow truth,
+vault persistence, publish routing, or certification boundaries out of uDOS.
 
 ## Boundary
 
@@ -30,6 +29,7 @@ Deer Flow is used as:
 
 ## Activated Surfaces
 
+- stable docs under `docs/`
 - translation and result schemas under `schemas/`
 - adapter and executor stubs under `src/python/`
 - graph helper stubs under `src/ts/`
