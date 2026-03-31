@@ -25,6 +25,12 @@ simple demos.
 - `upstream-sync.md`
 - `version-matrix.md`
 
+## Family Cursor workspace
+
+In a **`uDOS-family/`** checkout, **`cursor-07-docs-wiki-courses.code-workspace`**
+includes this repo and **`vendor/deer-flow`** (upstream) as separate roots after
+you run `bash scripts/clone-deerflow.sh "$(pwd)"` from the plugin root.
+
 ## Rule
 
 Keep stable reference here. Keep forward-looking planning in `@dev/`.
